@@ -4,7 +4,7 @@ _Conectar es una aplicación interactiva para niños con mini juegos educativos.
 
 ## Conectar está en desarrollo 🚀
 
-![Conectar](/master/conectar/imagenes/example1.png) 
+![Conectar](imagenes/example1.png) 
 
 ### Pre-requisitos 📋
 
